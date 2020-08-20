@@ -10,4 +10,4 @@ this is a Gameplay example
 ![GitHub Logo](/SnakeArrayImages/SnakeArrayGameplay.PNG) 
 
 
-For anyone reading this. Sorry for the spelling mistakes that might be there. It wasn't a priority to me as this is just a project for me to learn ml Tools.
+For anyone reading this. Sorry for the spelling mistakes that might be there. It wasn't a priority to me as this is just a project for me to learn how to program.
